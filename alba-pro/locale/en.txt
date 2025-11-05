@@ -1,0 +1,17 @@
+#: locale=en
+
+## Media
+
+### Title
+album_6EFC88D2_6104_9D37_41AF_54E024766875_0.label = 052037B
+album_6EFC88D2_6104_9D37_41AF_54E024766875_1.label = 052063B
+album_6EFC88D2_6104_9D37_41AF_54E024766875_2.label = 052072B
+album_6EFC88D2_6104_9D37_41AF_54E024766875.label = Photo Album 052037B
+
+## Tour
+
+### Description
+tour.description = Album
+
+### Title
+tour.name = Untitled 2
