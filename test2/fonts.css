@@ -1,0 +1,60 @@
+@font-face {
+   font-family: "W_azin";
+   src: url("res_glyphs/W_azin.woff") format("woff"), url("res_glyphs/W_azin.eot") format("embedded-opentype"), url("res_glyphs/W_azin.TTF") format("truetype"), url("res_glyphs/W_azin.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Comic Sans MS";
+   src: url("res_glyphs/Comic Sans MS.woff") format("woff"), url("res_glyphs/Comic Sans MS.eot") format("embedded-opentype"), url("res_glyphs/Comic Sans MS.ttf") format("truetype"), url("res_glyphs/Comic Sans MS.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("res_glyphs/Montserrat Bold.woff") format("woff"), url("res_glyphs/Montserrat Bold.eot") format("embedded-opentype"), url("res_glyphs/Montserrat Bold.ttf") format("truetype"), url("res_glyphs/Montserrat Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "IRTitr";
+   src: url("res_glyphs/IRTitr.woff") format("woff"), url("res_glyphs/IRTitr.eot") format("embedded-opentype"), url("res_glyphs/IRTitr.ttf") format("truetype"), url("res_glyphs/IRTitr.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Otama.ep";
+   src: url("res_glyphs/Otama-ep.woff") format("woff"), url("res_glyphs/Otama-ep.eot") format("embedded-opentype"), url("res_glyphs/Otama-ep.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Arial TUR";
+   src: url("res_glyphs/Arial.woff") format("woff"), url("res_glyphs/Arial.eot") format("embedded-opentype"), url("res_glyphs/Arial.ttf") format("truetype"), url("res_glyphs/Arial.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("res_glyphs/Antonio Bold.woff") format("woff"), url("res_glyphs/Antonio Bold.eot") format("embedded-opentype"), url("res_glyphs/Antonio Bold.ttf") format("truetype"), url("res_glyphs/Antonio Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Open Sans Semibold";
+   src: url("res_glyphs/Open Sans Semibold Italic.woff") format("woff"), url("res_glyphs/Open Sans Semibold Italic.eot") format("embedded-opentype"), url("res_glyphs/Open Sans Semibold Italic.ttf") format("truetype"), url("res_glyphs/Open Sans Semibold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Open Sans Semibold";
+   src: url("res_glyphs/Open Sans Semibold.woff") format("woff"), url("res_glyphs/Open Sans Semibold.eot") format("embedded-opentype"), url("res_glyphs/Open Sans Semibold.ttf") format("truetype"), url("res_glyphs/Open Sans Semibold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Roboto Slab Black";
+   src: url("res_glyphs/Roboto Slab Black.woff") format("woff"), url("res_glyphs/Roboto Slab Black.eot") format("embedded-opentype"), url("res_glyphs/Roboto Slab Black.ttf") format("truetype"), url("res_glyphs/Roboto Slab Black.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
